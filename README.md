@@ -1,5 +1,5 @@
 # code-examples
-In this repository there will be assorted basic JS and Python projects
+In this repository there will be assorted basic JS projects
 
 # nodeJS_mySQL_DB.js
 Code to connect a NodeJS server with a mySQL2 database
